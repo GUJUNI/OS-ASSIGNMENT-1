@@ -1,13 +1,12 @@
-# OS-ASSIGNMENT-1
+<span style="color:blue"># OS-ASSIGNMENT-1 </span>.
 
-THIS REPO CONTAIN "practical shell scripts sed grep AWK.Pdf" file for practical work.
+This REPO contain "practical shell scripts sed grep AWK.Pdf" file for practical work.
 
 This file contain 15 "sed , awk and grep" related command script.Upload each script seperately with "ans<ques.No>.Txt" name.
 
 Eg: script - 1 solution file will be uploaded as "ans1.Txt".
 
 # REVIEW PROCESS
-# ==============
 
 Purpose of review process is to share and extend your knowledge related to this topic.
 
@@ -15,7 +14,6 @@ Review other 5 students solution by giving your feedback. Reply or answer on per
 
 
 # HOW TO GIVE FEEDBACK OR REVIEW
-# ===============================
 
 * By clicking on "gujuni" of your repo name (from upper left-hand side), search particular student repo.
 
