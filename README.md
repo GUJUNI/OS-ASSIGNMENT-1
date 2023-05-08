@@ -1,4 +1,4 @@
-<font color="blue"> OS-ASSIGNMENT-1 </font>
+<span style="color:green> OS-ASSIGNMENT-1 </span>
 
 This REPO contain "practical shell scripts sed grep AWK.Pdf" file for practical work.
 
