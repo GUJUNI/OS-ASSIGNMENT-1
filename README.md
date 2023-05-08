@@ -1,34 +1,34 @@
 # OS-ASSIGNMENT-1
 
-THIS REPO CONTAIN "Practical Shell Scripts Sed Grep AWK.PDF" FILE FOR PRACTICAL WORK.
+THIS REPO CONTAIN "practical shell scripts sed grep AWK.Pdf" file for practical work.
 
-THIS FILE CONTAIN 15 "SED , AWK AND GREP" RELATED COMMAND SCRIPT.
+This file contain 15 "sed , awk and grep" related command script.Upload each script seperately with "ans<ques.No>.Txt" name.
 
-UPLOAD EACH SCRIPT SEPERATELY WITH "ANS<QUES.NO>.TXT" NAME.
-
-EG. SCRIPT - 1 SOLUTION FILE WILL BE UPLOADED AS "ANS1.TXT".
+Eg: script - 1 solution file will be uploaded as "ans1.Txt".
 
 # REVIEW PROCESS
 # ==============
 
-PURPOSE OF REVIEW PROCESS IS TO SHARE AND EXTEND YOUR KNOWLEDGE RELATED TO THIS TOPIC. 
+Purpose of review process is to share and extend your knowledge related to this topic.
 
-REVIEW OTHER 5 STUDENTS SOLUTION BY GIVING YOUR FEEDBACK. REPLY OR ANSWER ON PERTICULAR FEEDBACK GIVEN ON YOUR SOLUTION.
+Review other 5 students solution by giving your feedback. Reply or answer on perticular feedback given on your solution.
+
 
 # HOW TO GIVE FEEDBACK OR REVIEW
 # ===============================
 
- BY CLICKING ON "GUJUNI" OF YOUR REPO NANME (FROM UPPER LEFT HAND SIDE), SEARCH PERTICULAR STUDENT REPO.
- 
- GOTO PULL REQUESTS
- 
- CLICK ON FEEBACK
- 
- CLICK ON FILE CHANGED. SHOW ALL UPLOADED SOLUTION. 
- 
- NOW START REVIEW. DURING REVIEW IF YOU FIND ANY PROBLEM IN ANY LINE OF SOLUTION, JUST CLICK ON "+" AND PUT YOUR COMMENT.
- 
- IN COMMENT , WRITE YOUR SUGGESTION OR ISSUE WHICH YOU DISCOVER IN SCRIPT.
+* By clicking on "gujuni" of your repo name (from upper left-hand side), search particular student repo.
+
+* Goto pull requests
+
+* Click on feedback
+
+* Click on file changed. Show all uploaded solution.
+
+Now start review. During review if you find any problem in any line of solution, just click on "+" and put your comment.
+
+In comment , write your suggestion or issue which you discover in script.
+
  
  FOR MORE INFO : https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request
  
